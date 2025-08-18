@@ -45,8 +45,4 @@ This project aims to train a Recurrent Neural Network (RNN)  on SMILES represent
 
 <img width="170" height="133" alt="image" src="https://github.com/user-attachments/assets/cb44f4a5-d4c0-4fa1-b897-1299952aa03e" />
 
-#### CC1CNCCN1
-
-<img width="120" height="109" alt="image" src="https://github.com/user-attachments/assets/28e0ff14-27ff-4a5b-a36c-d94e24282311" />
-
 
