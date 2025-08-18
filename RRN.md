@@ -77,7 +77,7 @@ X_train, X_val, y_train, y_val = train_test_split(X, y, test_size=0.1, random_st
 ```
 
 ## 5. Model
-#### The model architecture consists of: Input → Embedding → LSTM → Dropout → LSTM → Dense with softmax activation. It predicts the next character at each timestep.
+#### The model architecture consists of: Input → Embedding → LSTM → Dropout → LSTM → Dense with softmax activation. It predicts the next character at each timestep. The initial state is initialized to all zeroes.
 ```python
 model = models.Sequential([
     layers.Input(shape=(seq_len,)),
