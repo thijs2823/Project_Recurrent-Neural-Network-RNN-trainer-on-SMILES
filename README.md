@@ -2,7 +2,7 @@
 This project aims to train a Recurrent Neural Network (RNN)  on SMILES representations of molecular structures of known pharmaceuticals.
 
 ## Dataset
-- The model loads 3,594 approved drugs from the ChEMBL database (https://www.ebi.ac.uk/chembl/) (search for approved drugs).
+- The model loads 4,194 approved drugs from the ChEMBL database (https://www.ebi.ac.uk/chembl/) (search for approved drugs).
 - Each molecule is represented by its canonical SMILES string with its preferred name.
 - Faulty records were removed manually
 
