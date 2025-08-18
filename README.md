@@ -25,9 +25,6 @@ This project aims to train a Recurrent Neural Network (RNN)  on SMILES represent
 - Optimizer: Adam
 
 ## Sample training curve (Epoch vs Loss):
-
-
-No Overfitting is seen
 - The model is learning effectively from the training data, reaching a training loss of approximately 0.17 at epoch 50 (blue line).
 - The validation loss begins to plateau around epoch 28.
 - No signs of overfitting
