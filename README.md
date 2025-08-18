@@ -22,6 +22,7 @@ RNNs are suitable for training with SMILES strings, as each character represents
 ## Training
 - Batch size: 64
 - Epochs: 50
+- Two hidden layers
 - Loss function: Categorical cross-entropy
 - Optimizer: Adam
 
